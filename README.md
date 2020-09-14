@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/8777372/88256312-f8cca080-cc88-11ea-982b-e99c5aa20148.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
